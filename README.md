@@ -49,7 +49,7 @@ cd Github-repo-size-checker
 4. Open the web browser to preview the application.
 
 ## 📸 Screenshot
-![Preview Image](Screenshot.png)
+![Preview Image](screenshot.png)
 
 ## 🤝 Contribution
 
