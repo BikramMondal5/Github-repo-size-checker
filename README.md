@@ -11,9 +11,11 @@ A lightweight client-side tool that allows user to check the size of a GitHub re
 - **Privacy-Focused:** No data is stored or tracked, all queries go directly to the GitHub API
 
 ## 🛠️ Technologies Used
-- **HTML** - Structure of the web page
-- **CSS** - Styling and responsiveness
-- **JavaScript** - To add the functionality of the webpage
+- **HTML5:** Semantic structure, form elements, responsive containers
+- **CSS3:** CSS variables (light/dark themes), flexbox layout, animations, media queries
+- **JavaScript (ES6+):** Fetch API for GitHub requests, async/await, URL parsing, error handling
+- **GitHub REST API v3:** Repository metadata, owner details, statistics (stars, forks, language)
+- **Development Principles:** Responsive design, progressive enhancement, mobile-first approach
 
 ## 🚀 Why This Matters❓
   **Save Bandwidth & Time**
