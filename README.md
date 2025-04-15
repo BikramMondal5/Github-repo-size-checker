@@ -18,14 +18,14 @@ A lightweight client-side tool that allows user to check the size of a GitHub re
 - **Development Principles:** Responsive design, progressive enhancement, mobile-first approach
 
 ## 🚀 Why This Matters❓
-  **Save Bandwidth & Time**
+  **Save Bandwidth & Time** -
   Before cloning large repositories, knowing their size helps you:
 
   - Avoid unexpected data usage on limited connections
   - Prevent filling up disk space on smaller devices
   - Make informed decisions before downloading massive codebases
 
-  **Resource Planning**
+  **Resource Planning** -
   For developers, DevOps engineers, and teams:
 
   - Assess repository size before integration into CI/CD pipelines
@@ -50,6 +50,12 @@ cd Github-repo-size-checker
 
 ## 📸 Screenshot
 ![Preview Image](screenshot.png)
+
+## 🔄 API Rate Limits
+
+This application relies on the GitHub REST API, which has rate limits. If you encounter an "API rate limit exceeded" error, then probably you crossed your limits. Please wait a moment before trying again.
+- 60 requests/hour (unauthenticated)
+- 5000 requests/hour (authenticated using a personal access token)
 
 ## 🤝 Contribution
 
