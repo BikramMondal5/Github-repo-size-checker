@@ -1,6 +1,6 @@
-# Github-repo-size-checker
+# 🔍🖥️ Github-repo-size-checker
 
-A simple, fast, and user-friendly web app that allows users to upload JPG/PNG files and convert them into a PDF file.
+A lightweight client-side tool that allows user to check the size of a GitHub repository without cloning it, just using its URL link. This application also provides instant repository insights including its stars, forks, language used and more.
 
 ## 🌟 Features
 - **Instant Size Information:** Check any public GitHub repository's size without cloning or downloading
